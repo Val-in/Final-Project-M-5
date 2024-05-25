@@ -16,6 +16,7 @@
 
             Console.WriteLine("Напишите Вашу фамилию: ");
             string Surname = Console.ReadLine();
+            
 
             Console.WriteLine("Напишите Ваш возраст: ");
             var Age = ReadPositiveInt();
